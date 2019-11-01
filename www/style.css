@@ -1,0 +1,51 @@
+body
+{
+}
+
+#store-title
+{
+  background-color: rgba(50, 50, 50, .1);
+}
+.store-panel
+{
+  background-color: rgba(50, 50, 50, .1);
+  /* background-color: rgba(153, 111, 38,.2); */
+}
+
+.store-panel button
+ {
+   width: 100%;
+   text-align: left;
+ }
+
+ #count, #BPS
+ {
+   background-color: rgba(50, 50, 50, .1);
+   text-align: center;
+   font-size: 15pt;
+   font-weight: bolder;
+ }
+
+#manual_add
+{
+  padding: 2em;
+  margin: auto;
+  display: block;
+  border-radius: 50%;
+  background-color: rgba(50, 50, 50, .1);
+}
+
+#manual_add:focus
+{
+  outline: none;
+}
+
+i
+{
+  color: saddlebrown;
+}
+
+h3
+{
+  text-align: center;
+}
