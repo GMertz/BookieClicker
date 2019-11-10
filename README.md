@@ -7,7 +7,7 @@ all players share one game state, as the game state is stored on the server.
 A live version can be found [here](viz.datasci.watzek.cloud/bookieclicker/)
 
 As this project was made in a very short timeframe, and was mainly an educational
-project, it most likely will not be updated unless I have some time.  
+project, it is very hacky and most likely will not be updated unless I have some time.  
 
 ### Running it yourself
 Setting it up is really easy!  
