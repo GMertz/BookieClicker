@@ -12,7 +12,7 @@ project, it is very hacky and most likely will not be updated unless I have some
 ### Running it yourself
 Setting it up is really easy!  
 1. Install [R](https://www.r-project.org/)
-2. Install the [Shiny](https://shiny.rstudio.com/)
+2. Install the [Shiny](https://shiny.rstudio.com/) package
    * run  install.packages("shiny")
 3. Import the library
    * In your R file or terminal:  library("shiny")
